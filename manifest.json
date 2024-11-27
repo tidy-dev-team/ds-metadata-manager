@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "ds-metadata-manager",
+  "name": "ds metadata manager",
+  "main": "build/main.js",
+  "ui": "build/ui.js"
+}
